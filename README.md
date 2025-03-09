@@ -1,15 +1,53 @@
-# React + Vite
+#  Yemek Siparişi Uygulaması
+🍔 Yemekseverler İçin! 🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+bu Proje ile restoranlar arasında gezinin, en yakın restoranı bulun ve hızlıca sipariş verin! 🚗💨
 
-Currently, two official plugins are available:
+# Proje Hakkında 📋
+Now, kullanıcıların restoranlardan menülerini keşfetmelerini ve istediği yemekleri kolayca sipariş etmelerini sağlayan bir yemek siparişi uygulamasıdır. Uygulama, restoranların açık/kapalı ürün durumlarını gösterir, sevkiyat mesafelerini ayarlayarak kullanıcılara en uygun restoranları sunar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Özellikler 🔧
+🍽️ Restoran Seçimi: Kendine uygun restoranı hızlıca bul
+🛍️ Sipariş Verme: Dilediğin menüyü seç, anında sipariş et
+🌍 Max Mesafe: Siparişin teslimat alanına göre optimize edilmiştir
+🔴 Açık/Kapalı Ürünler: Menüdeki ürünlerin mevcut durumu – açık olanlar hemen sipariş edilebilir, kapalı olanlar ise sonradan erişilebilir
+🚚 Sevkiyat: İstediğin yeri seç, siparişin hızlıca gelsin
+🛒 Sepet: Tüm ürünlerini sepete ekleyip alışverişini tamamla
 
-## Expanding the ESLint configuration
+#  Teknolojiler ve Kullanılan Araçlar ⚙️
+⚛️ Frontend: React, Redux, Tailwind CSS, Bootstrap
+🖥️ Backend: JSON Server
+🌐 Diğer: Axios, React Router DOM, React Icons, React Toastify, UUID
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# yemekSepetiClone_project
-# Yemek-Sepeti-Clone-Project
-# Yemek-Sepeti-Clone-Project
+#  Proje Yapısının Detayları 🏗️
+🏠 Ana Sayfa: Restoranlar ve menülerin listelendiği sayfa
+🛒 Sepet: Kullanıcıların seçtikleri ürünleri görüp siparişlerini tamamlayabilecekleri sayfa
+🍴 Restoran Sayfası: Detaylı menü ve restoran bilgileri
+
+# Katkıda Bulunma
+Bu proje üzerinde katkıda bulunmak için, bu projeyi forkladıktan sonra bir pull request oluşturabilirsiniz.
+Hatalar veya geliştirilmesi gereken alanlarla ilgili geri bildirimlerinizi "Issues" sekmesinden iletebilirsiniz.
+#  İletişim 📬
+Proje ile ilgili her türlü sorunuz, katkı veya öneri için benimle iletişime geçebilirsiniz:
+
+📧 E-mail: akgundogduesr@gmail.com
+💼 LinkedIn: Esra Akgündoğdu LinkedIn
+📱 Instagram: narla.scode
+
+Lezzet her zaman bir tık uzağınızda! 🍽️🚀
+#   📸Ekran Görüntüsü :
+
+
+https://github.com/user-attachments/assets/5967dec3-e25d-4daf-82e5-0ca18f6eec81
+
+
+
+
+
+
+
+
+
+
+
+
