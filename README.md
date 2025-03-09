@@ -4,7 +4,7 @@
 bu Proje ile restoranlar arasında gezinin, en yakın restoranı bulun ve hızlıca sipariş verin! 🚗💨
 
 # Proje Hakkında 📋
-Now, kullanıcıların restoranlardan menülerini keşfetmelerini ve istediği yemekleri kolayca sipariş etmelerini sağlayan bir yemek siparişi uygulamasıdır. Uygulama, restoranların açık/kapalı ürün durumlarını gösterir, sevkiyat mesafelerini ayarlayarak kullanıcılara en uygun restoranları sunar.
+bu proje ile kullanıcıların restoranlardan menülerini keşfetmelerini ve istediği yemekleri kolayca sipariş etmelerini sağlayan bir yemek siparişi uygulamasıdır. Uygulama, restoranların açık/kapalı ürün durumlarını gösterir, sevkiyat mesafelerini ayarlayarak kullanıcılara en uygun restoranları sunar.
 
 # Özellikler 🔧
 🍽️ Restoran Seçimi: Kendine uygun restoranı hızlıca bul
