@@ -1,0 +1,341 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Gourmet Cafe",
+      "minPrice": 100,
+      "estimatedDelivery": 40,
+      "photo": "https://static.where-e.com/Saudi_Arabia/Riyadh_Province/Riyadh_Principality/Gourmet-Cafe_61d14dabf5f42de8ae5a5d3ea99dd968.jpg",
+      "rating": 4.9,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 5
+    },
+    {
+      "id": "2",
+      "name": "The Green House",
+      "minPrice": 50,
+      "estimatedDelivery": 30,
+      "photo": "https://images.squarespace-cdn.com/content/v1/5467b418e4b0621bf7709013/1554953881336-THDQD9L4MPGAO0RUVMH0/17.jpg?format=1000w",
+      "rating": 4.6,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 6
+    },
+    {
+      "id": "3",
+      "name": "Sunset Bistro",
+      "minPrice": 70,
+      "estimatedDelivery": 45,
+      "photo": "https://www.sinanhamamsarilar.com/wp-content/uploads/2020/04/brasserie.jpg",
+      "rating": 4.8,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 3
+    },
+    {
+      "id": "4",
+      "name": "Spice Palace",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://spice-palace-hotel-stone-town.bookeder.com/data/Photos/OriginalPhoto/13965/1396584/1396584536/Spice-Palace-Hotel-Zanzibar-Exterior.JPEG",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 8
+    },
+    {
+      "id": "5",
+      "name": "Delicious Delights",
+      "minPrice": 85,
+      "estimatedDelivery": 60,
+      "photo": "https://static.wixstatic.com/media/9bd494_16b58fd309564b4da07879d8c6f75663~mv2.jpg/v1/fill/w_640,h_576,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9bd494_16b58fd309564b4da07879d8c6f75663~mv2.jpg",
+      "rating": 4.9,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 10
+    },
+    {
+      "id": "6",
+      "name": "Vegan Feast",
+      "minPrice": 40,
+      "estimatedDelivery": 35,
+      "photo": "https://thebeet.com/uploads/2022/03/attachment-GettyImages-vegan-dinner-party.jpg?auto=webp",
+      "rating": 4.5,
+      "isDeliveryFree": false,
+      "isOpen": true,
+      "distance": 4
+    },
+    {
+      "id": "7",
+      "name": "Tasty Treats",
+      "minPrice": 55,
+      "estimatedDelivery": 40,
+      "photo": "https://images.squarespace-cdn.com/content/v1/5e977e9edb951e63b0b6bd04/1f14a350-8e1e-48b6-acd4-913a88a4ea2e/types-of-restaurants-classification-and-categories-explained.jpg",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "8",
+      "name": "Healthy Bowl",
+      "minPrice": 45,
+      "estimatedDelivery": 25,
+      "photo": "https://images.squarespace-cdn.com/content/v1/602ff461c80968130225c0ab/5c0882aa-99e2-4868-8e41-94a0be163be2/2V5A3716.jpg",
+      "rating": 4.8,
+      "isDeliveryFree": true,
+      "isOpen": false,
+      "distance": 9
+    },
+    {
+      "id": "9",
+      "name": "Urban Feast",
+      "minPrice": 110,
+      "estimatedDelivery": 50,
+      "photo": "https://pbs.twimg.com/profile_images/2156588324/logo_flat_400x400.jpg",
+      "rating": 4.7,
+      "isDeliveryFree": false,
+      "isOpen": true,
+      "distance": 5
+    },
+    {
+      "id": "10",
+      "name": "Old Town Grill",
+      "minPrice": 90,
+      "estimatedDelivery": 45,
+      "photo": "https://assets.bonappetit.com/photos/57d6d72babffea600db60d74/16:9/w_2560%2Cc_limit/tbd-restaurant-grillworks.jpg",
+      "rating": 4.5,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 6
+    },
+    {
+      "id": "11",
+      "name": "Seafood Express",
+      "minPrice": 75,
+      "estimatedDelivery": 30,
+      "photo": "https://seafoodexpress.ae/wp-content/uploads/2023/09/Order-Seafood-Express-Restaurant-Seafood-Bucket-in-Abu-Dhabi-Shrimp-Pot-Crab-Lobester-Fish-1.jpeg",
+      "rating": 4.9,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 7
+    },
+    {
+      "id": "12",
+      "name": "Taste of Italy",
+      "minPrice": 95,
+      "estimatedDelivery": 40,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/2e/6f/98/barley.jpg?w=600&h=-1&s=1",
+      "rating": 4.7,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 4
+    },
+    {
+      "id": "13",
+      "name": "The Snack Bar",
+      "minPrice": 40,
+      "estimatedDelivery": 25,
+      "photo": "https://images.otstatic.com/prod1/49961117/3/large.jpg",
+      "rating": 4.4,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Grilled Salmon",
+      "desc": "Taze ızgara somon fileto, karışık sebzelerle servis edilir.",
+      "category": "Seafood",
+      "price": 49.99,
+      "rating": 4.8,
+      "photo": "https://www.kitchenmomy.com/wp-content/uploads/2024/12/Grilled-Salmon-with-Lemon-Butter.jpg",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "title": "Classic Margherita Pizza",
+      "desc": "Taze mozzarella, domates sosu ve fesleğen ile hazırlanan geleneksel pizza.",
+      "category": "Pizza",
+      "price": 14.99,
+      "rating": 4.5,
+      "photo": "https://uk.ooni.com/cdn/shop/articles/20220211142645-margherita-9920_e41233d5-dcec-461c-b07e-03245f031dfe.jpg?v=1737105431&width=2048",
+      "restaurantId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Pepperoni Pizza",
+      "desc": "Zengin pepperoni dilimleri, mozzarella peyniri ve domates sosu ile hazırlanan pizza.",
+      "category": "Pizza",
+      "price": 16.99,
+      "rating": 4.7,
+      "photo": "https://daddioskitchen.com/wp-content/uploads/2023/01/IMG-5299-500x500.jpg?crop=1",
+      "restaurantId": "2"
+    },
+    {
+      "id": "4",
+      "title": "Vegetarian Pizza",
+      "desc": "Taze sebzelerle hazırlanan, hafif ve sağlıklı pizza.",
+      "category": "Pizza",
+      "price": 12.99,
+      "rating": 4.4,
+      "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/pesto-pizza-449a516.jpg",
+      "restaurantId": "2"
+    },
+    {
+      "id": "5",
+      "title": "BBQ Chicken Pizza",
+      "desc": "Izgara tavuk, barbecue sosu ve mozzarella peyniriyle hazırlanan pizza.",
+      "category": "Pizza",
+      "price": 18.99,
+      "rating": 4.6,
+      "photo": "https://serenetrail.com/wp-content/uploads/2022/11/Up-close-view-of-bbq-chicken-pizza.jpg",
+      "restaurantId": "7"
+    },
+    {
+      "id": "6",
+      "title": "Hawaiian Pizza",
+      "desc": "Domates sosu, mozzarella, jambon ve ananas ile hazırlanan tatlı ve tuzlu pizza.",
+      "category": "Pizza",
+      "price": 17.99,
+      "rating": 4.3,
+      "photo": "https://www.sainsburysmagazine.co.uk/uploads/media/720x770/02/11262-SM01_21_roast_Chicken4CheesePizza.jpg?v=1-0",
+      "restaurantId": "3"
+    },
+    {
+      "id": "7",
+      "title": "Four Cheese Pizza",
+      "desc": "Mozzarella, gorgonzola, parmesan ve ricotta peynirleriyle hazırlanan zengin pizza.",
+      "category": "Pizza",
+      "price": 19.99,
+      "rating": 4.8,
+      "photo": "https://clubfoody.com/wp-content/uploads/2019/04/Quattro-Formaggi-Pizza-2_Fotor.jpg",
+      "restaurantId": "3"
+    },
+    {
+      "id": "8",
+      "title": "Chicken Skewer",
+      "desc": "Marine edilmiş tavuk parçalarının şişte ızgara edilmesiyle hazırlanır.",
+      "category": "Kebabs",
+      "price": 18.99,
+      "rating": 4.7,
+      "photo": "https://www.allrecipes.com/thmb/3mZIZ8udc2Cft639tmiyQTHDewo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8626-yummy-honey-chicken-kabobs-DDMFS-4x3-f859cd49cf184e6c945c9c630b745871.jpg",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "9",
+      "title": "Chocolate Brownie",
+      "desc": "Yoğun çikolatalı brownie, vanilyalı dondurma ile servis edilir.",
+      "category": "Desserts",
+      "price": 9.99,
+      "rating": 4.9,
+      "photo": "https://www.thebakingchocolatess.com/wp-content/uploads/2021/03/IMG_2356.jpg",
+      "restaurantId": "3"
+    },
+    {
+      "id": "10",
+      "title": "Baked Macaroni",
+      "desc": "Mozzarella peyniri ve domates sosu ile fırınlanmış makarna.",
+      "category": "Pasta",
+      "price": 12.99,
+      "rating": 4.6,
+      "photo": "https://www.southernliving.com/thmb/7tvEnGp-U8vG5YOgJjsItak-nmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Baked-Mac-and-Cheese-3x4-1126-6509f428efe649d6afe1d2d65938bf51.jpg",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "11",
+      "title": "Beef Stew",
+      "desc": "Sebzeler ve baharatlarla pişirilmiş yumuşacık dana eti.",
+      "category": "Meat Dishes",
+      "price": 24.99,
+      "rating": 4.4,
+      "photo": "https://www.allrecipes.com/thmb/qbGGkvMvNjvwUGd5mpaiVAIMTpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/263037-instant-pot-beef-stew-mfs-beauty-4x3-BP-2467-3e45373d48544a7caf708248751a4c1c.jpg",
+      "restaurantId": "5"
+    },
+    {
+      "id": "12",
+      "title": "Roast Chicken Leg",
+      "desc": "Özel baharatlarla marine edilen tavuk butu, mükemmel kıvamda fırınlanır.",
+      "category": "Chicken Dishes",
+      "price": 16.99,
+      "rating": 4.7,
+      "photo": "https://thereisfoodathome.com/wp-content/uploads/2025/01/baked-chicken-leg-quarters-2.jpg",
+      "restaurantId": "7",
+      "isPopular": true
+    },
+    {
+      "id": "13",
+      "title": "Veggie Noodles",
+      "desc": "Hafif ve lezzetli sosla harmanlanmış sebzeli erişte.",
+      "category": "Asian Cuisine",
+      "price": 13.99,
+      "rating": 4.6,
+      "photo": "https://www.wearesovegan.com/wp-content/uploads/2021/11/vegan15minuteeasynoodlesrecipeh1.jpg",
+      "restaurantId": "8",
+      "isPopular": true
+    },
+    {
+      "id": "14",
+      "title": "Italian Salad",
+      "desc": "Taze roka, kiraz domates, mozzarella ve balsamik sos ile hazırlanan salata.",
+      "category": "Salads",
+      "price": 9.49,
+      "rating": 4.3,
+      "photo": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-2-2.jpg",
+      "restaurantId": "3"
+    },
+    {
+      "id": "15",
+      "title": "Chicken Curry",
+      "desc": "Baharatlı körili tavuk, pilav eşliğinde servis edilir.",
+      "category": "Indian Cuisine",
+      "price": 18.99,
+      "rating": 4.8,
+      "photo": "https://wanderingchickpea.com/wp-content/uploads/2023/10/pumpkin-chicken-curry-2-1-735x1103.jpg",
+      "restaurantId": "5"
+    },
+    {
+      "id": "16",
+      "title": "Seasonal Salad",
+      "desc": "Mevsim sebzeleriyle hazırlanan hafif ve lezzetli salata.",
+      "category": "Salads",
+      "price": 8.49,
+      "rating": 4.5,
+      "photo": "https://www.allrecipes.com/thmb/njd4Wtxua7NOollhDcaVepTxfaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Roasted-Butternut-Squash-with-Onions-Spinach-and-Craisins-f4d6522a182c4297a157284af86117d0.jpg",
+      "restaurantId": "4",
+      "isPopular": true
+    }
+  ],
+  "cart": [
+    {
+      "id": "152f22c1-90c6-43ab-b792-0f29a8d2888a",
+      "productId": 1,
+      "title": "Grilled Salmon",
+      "price": 49.99,
+      "photo": "https://www.kitchenmomy.com/wp-content/uploads/2024/12/Grilled-Salmon-with-Lemon-Butter.jpg",
+      "amount": 1
+    },
+    {
+      "id": "de9ff0a6-f43e-420c-b99b-533d9dccf532",
+      "productId": 9,
+      "title": "Chocolate Brownie",
+      "price": 9.99,
+      "photo": "https://www.thebakingchocolatess.com/wp-content/uploads/2021/03/IMG_2356.jpg",
+      "amount": 1
+    },
+    {
+      "id": "e95c398a-1c72-42f8-b9a8-bcefdfd9be31",
+      "productId": 6,
+      "title": "Hawaiian Pizza",
+      "price": 17.99,
+      "photo": "https://www.sainsburysmagazine.co.uk/uploads/media/720x770/02/11262-SM01_21_roast_Chicken4CheesePizza.jpg?v=1-0",
+      "amount": 1
+    }
+  ]
+}
